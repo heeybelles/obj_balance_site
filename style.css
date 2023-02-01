@@ -162,13 +162,10 @@ body{
 .team .card {
 	box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
 	justify-content: center;
-	width: 330px;
-	height: 500px;
+	width: 360px;
+	height: 280px;
 }
-.team .imgfuncio{
-width: 50px;
-height: 50px;
-}
+
 .sobre .card-body i {
 	font-size: 50px;
 }
